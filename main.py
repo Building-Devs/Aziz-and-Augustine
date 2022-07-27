@@ -93,8 +93,6 @@ def main():
                     print("Invalid Input \nEnter 1-4")
                     return options()
     options()                
-    with open("Student-details.txt", "w") as file:
-        file.write(f"\n Student_ID:  {user_id}\n Test1_score:  {test1}\n Test2_score:  {test2}\n Test3_score:  {test3}\n Interim_test_score:  {interim_test}\n Exam_score:  {exam_score}\n")
     
     
 main()            

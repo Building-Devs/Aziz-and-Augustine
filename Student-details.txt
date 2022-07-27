@@ -1,0 +1,14 @@
+
+ Student_ID:  1
+ Test1_score:  2.0
+ Test2_score:  2.0
+ Test3_score:  2.0
+ Interim_test_score:  2.0
+ Exam_score:  2.0
+
+ Student_ID:  4
+ Test1_score:  5.0
+ Test2_score:  5.0
+ Test3_score:  5.0
+ Interim_test_score:  5.0
+ Exam_score:  5.0
